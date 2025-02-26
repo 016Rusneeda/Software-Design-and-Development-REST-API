@@ -425,7 +425,8 @@ npm run dev
    - แก้ไขข้อมูลบางส่วนใน JSON
 
   ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการแก้ไขข้อมูล](path/to/your/image.png)
+  ![image](https://github.com/user-attachments/assets/be8d6494-10ae-438b-b019-37cd0990818f)
+
 
    d) Delete Booking:
    - สร้าง Request ใหม่ชื่อ "Delete Booking"
@@ -433,7 +434,8 @@ npm run dev
    - URL: http://localhost:3000/api/bookings/1
   
     ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการลบข้อมูล](path/to/your/image.png)
+  ![ผลการลบข้อมูล]![image](https://github.com/user-attachments/assets/7751e249-0ff7-41d8-971a-8542b759023f)
+
 
   ### หยุดการทำงานของ API Server โดยกดปุ่ม Ctrl + c
 
