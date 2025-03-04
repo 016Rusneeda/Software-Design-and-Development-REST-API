@@ -746,7 +746,9 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
    - Method: GET
 
     ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการเรียกดูข้อมูล](path/to/your/image.png)
+  ![image](https://github.com/user-attachments/assets/861b9d58-3316-4989-874a-7f763bf12df1)
+
+
 
    d. อัพเดตข้อมูล (PUT):
    - URL: `http://localhost:5000/api/bookings/1`
@@ -765,11 +767,15 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
    }
    ```
     ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการแก้ไขข้อมูล](path/to/your/image.png)
+  ![image](https://github.com/user-attachments/assets/0d712c62-1b50-4ce5-be02-7855f86ca71c)
+
+
 
    e. ลบข้อมูล (DELETE):
    - URL: `http://localhost:5000/api/bookings/1`
    - Method: DELETE
 
     ### บันทึกผลการทดลอง
-  ![แทรกรูปผลการลบข้อมูล](path/to/your/image.png)
+  ![image](https://github.com/user-attachments/assets/13ae862a-8f31-4eae-b71f-e361cdf0b91b)
+
+
